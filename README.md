@@ -1,8 +1,8 @@
-# AgroCast AI 
+# AgroCast Ai 
 
 **AgroCast AI** is an intelligent commodity price forecasting tool designed to empower farmers and traders with accurate, data-driven price predictions. Leveraging deep learning (LSTM architecture) and historical data, it provides near-term price forecasts for various agricultural commodities across different regions.
 
-## 🚀 Features
+##  Features
 
 -   **Precision Forecasting:** Predicts commodity prices for the next 3 days using advanced deep learning models.
 -   **Location-Specific:** Tailored predictions based on Location and Commodity type (e.g., Tomato predictions for specific locations).
@@ -10,7 +10,7 @@
 -   **Historical Data Analysis:** Visualizes trends and patterns from historical datasets to inform predictions.
 -   **Real-Time Inference:** Generates instant predictions using pre-trained Keras models.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend & App Framework
 -   **Framework:** Streamlit (Python)
@@ -23,14 +23,14 @@
 -   **Preprocessing:** Scikit-Learn (MinMaxScaler)
 -   **Dataset:** CSV-based historical agricultural data
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed:
 -   **Python** (v3.8 or higher)
 -   **pip** (Python Package Installer)
 -   **Git**
 
-## ⚙️ Installation
+##  Installation
 
 1.  **Clone the Repository**
     ```bash
@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
     pip install streamlit pandas numpy matplotlib scikit-learn tensorflow
     ```
 
-## 🏃‍♂️ Running the Application
+##  Running the Application
 
 To start the prediction dashboard, run the Streamlit application from the root directory:
 
@@ -66,7 +66,7 @@ streamlit run app.py
 
 The application will launch in your default web browser at `http://localhost:8501`.
 
-## 📖 Usage
+##  Usage
 
 1.  **Select Location & Commodity:**
     -   Enter the **Location** (State) name (e.g., "Punjab", "Maharashtra").
@@ -80,7 +80,7 @@ The application will launch in your default web browser at `http://localhost:850
     -   See the predicted prices for the **next 3 days** displayed clearly on the dashboard.
     -   view per-quintal and per-kg pricing breakdowns.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you have ideas for better models or more data sources, feel free to join in.
 
