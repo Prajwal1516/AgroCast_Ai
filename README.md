@@ -2,6 +2,15 @@
 
 **AgroCast AI** is an intelligent commodity price forecasting tool designed to empower farmers and traders with accurate, data-driven price predictions. Leveraging deep learning (LSTM architecture) and historical data, it provides near-term price forecasts for various agricultural commodities across different regions.
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00)
+![LSTM](https://img.shields.io/badge/Deep%20Learning-LSTM-8E44AD)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+
 ##  Features
 
 -   **Precision Forecasting:** Predicts commodity prices for the next 3 days using advanced deep learning models.
